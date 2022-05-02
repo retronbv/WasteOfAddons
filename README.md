@@ -12,3 +12,7 @@ Install [here](https://github.com/retronbv/WasteOfAddons/raw/main/WasteOfAdmin.u
 ## WasteOfVerified
 Gives people the admin badge on their profile if they have `verified` in their bio.
 Install [here](https://github.com/retronbv/WasteOfAddons/raw/main/WasteOfVerified.user.js)
+
+## WasteOfBeta
+Gives people the beta badge on their wasteof2 profile if they have access to the wasteof3 beta.
+Install [here](https://github.com/retronbv/WasteofAddons/raw/main/WasteOfBeta.user.js)
